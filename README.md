@@ -169,6 +169,8 @@ Because I'm interested in the Lorenz attractor, I also do the visualization of t
 
 ![img](https://github.com/LuxAsteria/test3/blob/master/lorentz.gif)
 
+[For codes please click here](https://github.com/LuxAsteria/exercise-9/blob/master/code%202)
+
 ###Conclusion
 This assignment is mainly about the simulation of the billiard ball. And from the picture and visualized simulation, it's conspicuous that as the constant--alpha changing, the movement of the ball will be undoubtedly affected, which will be shown in the more and more 'widespread' trajectories in the space.
 
