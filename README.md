@@ -1,6 +1,6 @@
 # exercise-9
 
-##PS:All pictures in the assignment are done by myself
+##PS:All pictures and animations in the assignment are done by myself
 
 ###Abstract
 In this assignmet, we are going to gain insight into a rather interesting problem--the movement of a billiard ball. Some pictures depict the trajactories are shown in this homework, as well as some *vpython simulations*. Also, I've done a simulation to picture the Lorenz attractor, just for fun.
