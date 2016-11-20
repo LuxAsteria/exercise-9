@@ -1,0 +1,28 @@
+def lorenz(w,t,p,r,b): 
+    x,y,z=w
+    return np.array([p*(y-x),x*(r-z),x*y-b*z])
+
+t =np.arange(0,50,0.01)
+
+track1=odeint(lorenz, (0.0, 1.00, 0.000000001),t,args=(10.0,30.0,3.0))
+
+track2=odeint(lorenz, (0.0, 1.00, 0.0),t,args=(10.0,30.0,3.0))
+
+fig=plt.figure()
+ax=fig.gca(projection='3d')
+
+line1=ax.plot([],[],'b:')
+point1=ax.plot([],[],'bo',markersize=10)
+
+line2=ax.plot([],[],'r:')
+
+point2=ax.plot([],[],'ro')
+
+images=[]
+
+
+def init():
+    pass
+
+def anmi(i):
+    pass
