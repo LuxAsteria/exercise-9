@@ -16,6 +16,8 @@ Exercise 3.31
 
 ### Picture of VISUALIZATION OF The Movement
 
+First, I do the animation of a visualized billiard ball bouncing in a eclipse talble.
+
 ![img](https://github.com/LuxAsteria/test3/blob/master/billiard%20ball.gif)
 
 ####Analyse
