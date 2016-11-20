@@ -20,6 +20,8 @@ First, I do the animation of a visualized billiard ball bouncing in a eclipse ta
 
 ![img](https://github.com/LuxAsteria/test3/blob/master/billiard%20ball.gif)
 
+[for code pleasw click here](https://github.com/LuxAsteria/exercise-9/tree/master)
+
 ####Analyse
 
 ![img](https://github.com/LuxAsteria/test3/blob/master/屏幕快照%202016-11-20%20下午9.23.07.png)
